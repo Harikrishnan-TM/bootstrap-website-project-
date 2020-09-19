@@ -1,6 +1,6 @@
 .firstrow
 {
-background-color: rgb(13, 179, 230);
+  background-color: #6351ce
 
 }
 
@@ -29,7 +29,7 @@ background-color: rgb(13, 179, 230);
 
 .firstsection
 {
-background: url("https://cdn.pixabay.com/photo/2016/11/24/22/11/water-lily-1857350_960_720.jpg");
+background: url("https://cdn.pixabay.com/photo/2015/05/15/14/47/computer-768696_960_720.jpg");
 background-repeat: no-repeat;
   background-size: 100%;
   
@@ -46,16 +46,16 @@ background-repeat: no-repeat;
 }
 .quote
 {
-    color: lightseagreen;
+  color: black;
     padding: 60px;
    margin: auto;
    text-align: center;
 }
-.secondcard
-{
-    background-color: whitesmoke;
-    
+
+.btn-primary {
+  background-color: #6351ce;
 }
+
 .card-body
 {
     text-align: center;
@@ -88,7 +88,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color:#6351ce;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -102,8 +102,18 @@ input[type=submit]:hover {
 /* Style the container/contact section */
 .container {
   border-radius: 5px;
+
   
-  padding: 10px;
+ 
+}
+
+.form {
+  
+  
+}
+.special {
+  
+  margin-bottom:30px;
 }
 
 /* Create two columns that float next to eachother */
